@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 92
+Employee Name: employee_92
+Role: safety manager
+Salary: $12,727
+Tax deduction: 636.35
+Net Salary: 12090.65
+Payslip Date: 2025-04-05
+=========================
+

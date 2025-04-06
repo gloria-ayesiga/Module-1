@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 397
+    Employee Name: employee_397
+    Role: project manager
+    Salary: $28,594
+    Tax deduction: 2859.4
+    Net Salary: 25734.6
+    Payslip Date: 2025-04-05
+    ==========================
+    

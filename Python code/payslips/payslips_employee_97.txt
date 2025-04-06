@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 97
+    Employee Name: employee_97
+    Role: surveyor
+    Salary: $19,339
+    Tax deduction: 966.95
+    Net Salary: 18372.05
+    Payslip Date: 2025-04-05
+    ==========================
+    

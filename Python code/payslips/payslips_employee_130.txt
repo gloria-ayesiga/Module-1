@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 130
+    Employee Name: employee_130
+    Role: foreman
+    Salary: $8,198
+    Tax deduction: 409.90000000000003
+    Net Salary: 7788.1
+    Payslip Date: 2025-04-05
+    ==========================
+    

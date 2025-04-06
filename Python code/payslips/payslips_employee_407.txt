@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 407
+    Employee Name: employee_407
+    Role: construction manager
+    Salary: $20,723
+    Tax deduction: 2072.3
+    Net Salary: 18650.7
+    Payslip Date: 2025-04-05
+    ==========================
+    

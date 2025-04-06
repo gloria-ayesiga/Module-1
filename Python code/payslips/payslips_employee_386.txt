@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 386
+    Employee Name: employee_386
+    Role: safety manager
+    Salary: $18,022
+    Tax deduction: 901.1
+    Net Salary: 17120.9
+    Payslip Date: 2025-04-05
+    ==========================
+    

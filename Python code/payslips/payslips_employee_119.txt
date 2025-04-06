@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 119
+    Employee Name: employee_119
+    Role: surveyor
+    Salary: $12,008
+    Tax deduction: 600.4
+    Net Salary: 11407.6
+    Payslip Date: 2025-04-05
+    ==========================
+    

@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 403
+Employee Name: employee_403
+Role: construction manager
+Salary: $21,353
+Tax deduction: 2135.3
+Net Salary: 19217.7
+Payslip Date: 2025-04-05
+=========================
+

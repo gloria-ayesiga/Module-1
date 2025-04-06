@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 236
+    Employee Name: employee_236
+    Role: civil engineer
+    Salary: $12,185
+    Tax deduction: 609.25
+    Net Salary: 11575.75
+    Payslip Date: 2025-04-05
+    ==========================
+    

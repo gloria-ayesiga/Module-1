@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 259
+    Employee Name: employee_259
+    Role: plumber
+    Salary: $7,165
+    Tax deduction: 358.25
+    Net Salary: 6806.75
+    Payslip Date: 2025-04-05
+    ==========================
+    

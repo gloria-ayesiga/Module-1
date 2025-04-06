@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 329
+    Employee Name: employee_329
+    Role: foreman
+    Salary: $6,750
+    Tax deduction: 337.5
+    Net Salary: 6412.5
+    Payslip Date: 2025-04-05
+    ==========================
+    

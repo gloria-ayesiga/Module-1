@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 94
+    Employee Name: employee_94
+    Role: surveyor
+    Salary: $12,298
+    Tax deduction: 614.9000000000001
+    Net Salary: 11683.1
+    Payslip Date: 2025-04-05
+    ==========================
+    

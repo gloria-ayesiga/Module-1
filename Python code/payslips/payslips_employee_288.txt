@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 288
+    Employee Name: employee_288
+    Role: safety manager
+    Salary: $12,756
+    Tax deduction: 637.8000000000001
+    Net Salary: 12118.2
+    Payslip Date: 2025-04-05
+    ==========================
+    

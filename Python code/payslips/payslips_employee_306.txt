@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 306
+    Employee Name: employee_306
+    Role: project manager
+    Salary: $22,708
+    Tax deduction: 2270.8
+    Net Salary: 20437.2
+    Payslip Date: 2025-04-05
+    ==========================
+    

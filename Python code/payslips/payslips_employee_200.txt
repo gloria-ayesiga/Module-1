@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 200
+    Employee Name: employee_200
+    Role: plumber
+    Salary: $6,003
+    Tax deduction: 300.15000000000003
+    Net Salary: 5702.85
+    Payslip Date: 2025-04-05
+    ==========================
+    

@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 13
+Employee Name: employee_13
+Role: civil engineer
+Salary: $13,538
+Tax deduction: 676.9
+Net Salary: 12861.1
+Payslip Date: 2025-04-05
+=========================
+

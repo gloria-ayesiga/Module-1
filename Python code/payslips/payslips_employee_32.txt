@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 32
+    Employee Name: employee_32
+    Role: foreman
+    Salary: $8,736
+    Tax deduction: 436.8
+    Net Salary: 8299.2
+    Payslip Date: 2025-04-05
+    ==========================
+    

@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 348
+    Employee Name: employee_348
+    Role: surveyor
+    Salary: $12,611
+    Tax deduction: 630.5500000000001
+    Net Salary: 11980.45
+    Payslip Date: 2025-04-05
+    ==========================
+    

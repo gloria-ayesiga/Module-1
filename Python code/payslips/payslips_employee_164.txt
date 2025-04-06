@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 164
+    Employee Name: employee_164
+    Role: civil engineer
+    Salary: $17,750
+    Tax deduction: 887.5
+    Net Salary: 16862.5
+    Payslip Date: 2025-04-05
+    ==========================
+    

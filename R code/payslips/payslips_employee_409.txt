@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 409
+Employee Name: employee_409
+Role: project manager
+Salary: $24,584
+Tax deduction: 2458.4
+Net Salary: 22125.6
+Payslip Date: 2025-04-05
+=========================
+

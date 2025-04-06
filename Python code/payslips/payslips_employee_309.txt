@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 309
+    Employee Name: employee_309
+    Role: construction manager
+    Salary: $27,009
+    Tax deduction: 2700.9
+    Net Salary: 24308.1
+    Payslip Date: 2025-04-05
+    ==========================
+    

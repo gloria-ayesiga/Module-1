@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 280
+    Employee Name: employee_280
+    Role: surveyor
+    Salary: $10,893
+    Tax deduction: 544.65
+    Net Salary: 10348.35
+    Payslip Date: 2025-04-05
+    ==========================
+    

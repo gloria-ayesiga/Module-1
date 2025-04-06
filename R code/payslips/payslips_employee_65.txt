@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 65
+Employee Name: employee_65
+Role: plumber
+Salary: $9,490
+Tax deduction: 474.5
+Net Salary: 9015.5
+Payslip Date: 2025-04-05
+=========================
+

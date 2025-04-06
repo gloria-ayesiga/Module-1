@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 316
+    Employee Name: employee_316
+    Role: foreman
+    Salary: $9,353
+    Tax deduction: 467.65000000000003
+    Net Salary: 8885.35
+    Payslip Date: 2025-04-05
+    ==========================
+    

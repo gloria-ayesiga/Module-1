@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 390
+Employee Name: employee_390
+Role: civil engineer
+Salary: $14,632
+Tax deduction: 731.6
+Net Salary: 13900.4
+Payslip Date: 2025-04-05
+=========================
+

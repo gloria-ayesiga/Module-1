@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 138
+    Employee Name: employee_138
+    Role: surveyor
+    Salary: $15,122
+    Tax deduction: 756.1
+    Net Salary: 14365.9
+    Payslip Date: 2025-04-05
+    ==========================
+    

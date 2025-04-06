@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 327
+    Employee Name: employee_327
+    Role: surveyor
+    Salary: $13,177
+    Tax deduction: 658.85
+    Net Salary: 12518.15
+    Payslip Date: 2025-04-05
+    ==========================
+    

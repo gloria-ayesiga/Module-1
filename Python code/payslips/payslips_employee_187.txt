@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 187
+    Employee Name: employee_187
+    Role: construction manager
+    Salary: $29,458
+    Tax deduction: 2945.8
+    Net Salary: 26512.2
+    Payslip Date: 2025-04-05
+    ==========================
+    

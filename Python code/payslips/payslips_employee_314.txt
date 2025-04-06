@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 314
+    Employee Name: employee_314
+    Role: construction manager
+    Salary: $28,203
+    Tax deduction: 2820.3
+    Net Salary: 25382.7
+    Payslip Date: 2025-04-05
+    ==========================
+    

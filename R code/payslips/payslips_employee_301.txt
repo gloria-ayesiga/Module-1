@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 301
+Employee Name: employee_301
+Role: plumber
+Salary: $7,128
+Tax deduction: 356.4
+Net Salary: 6771.6
+Payslip Date: 2025-04-05
+=========================
+

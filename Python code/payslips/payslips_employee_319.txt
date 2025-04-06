@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 319
+    Employee Name: employee_319
+    Role: safety manager
+    Salary: $10,855
+    Tax deduction: 542.75
+    Net Salary: 10312.25
+    Payslip Date: 2025-04-05
+    ==========================
+    

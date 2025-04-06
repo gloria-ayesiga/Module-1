@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 171
+    Employee Name: employee_171
+    Role: safety manager
+    Salary: $15,151
+    Tax deduction: 757.5500000000001
+    Net Salary: 14393.45
+    Payslip Date: 2025-04-05
+    ==========================
+    

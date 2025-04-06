@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 313
+    Employee Name: employee_313
+    Role: project manager
+    Salary: $29,523
+    Tax deduction: 2952.3
+    Net Salary: 26570.7
+    Payslip Date: 2025-04-05
+    ==========================
+    

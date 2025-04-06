@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 146
+Employee Name: employee_146
+Role: construction manager
+Salary: $29,198
+Tax deduction: 2919.8
+Net Salary: 26278.2
+Payslip Date: 2025-04-05
+=========================
+

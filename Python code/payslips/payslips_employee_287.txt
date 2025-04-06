@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 287
+    Employee Name: employee_287
+    Role: civil engineer
+    Salary: $10,797
+    Tax deduction: 539.85
+    Net Salary: 10257.15
+    Payslip Date: 2025-04-05
+    ==========================
+    

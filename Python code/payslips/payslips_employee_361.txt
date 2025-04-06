@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 361
+    Employee Name: employee_361
+    Role: plumber
+    Salary: $5,779
+    Tax deduction: 288.95
+    Net Salary: 5490.05
+    Payslip Date: 2025-04-05
+    ==========================
+    

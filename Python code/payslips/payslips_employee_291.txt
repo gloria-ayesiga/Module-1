@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 291
+    Employee Name: employee_291
+    Role: plumber
+    Salary: $9,163
+    Tax deduction: 458.15000000000003
+    Net Salary: 8704.85
+    Payslip Date: 2025-04-05
+    ==========================
+    

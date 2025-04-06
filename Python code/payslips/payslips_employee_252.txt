@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 252
+    Employee Name: employee_252
+    Role: construction manager
+    Salary: $25,656
+    Tax deduction: 2565.6000000000004
+    Net Salary: 23090.4
+    Payslip Date: 2025-04-05
+    ==========================
+    

@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 360
+    Employee Name: employee_360
+    Role: construction manager
+    Salary: $26,621
+    Tax deduction: 2662.1000000000004
+    Net Salary: 23958.9
+    Payslip Date: 2025-04-05
+    ==========================
+    

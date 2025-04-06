@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 248
+    Employee Name: employee_248
+    Role: foreman
+    Salary: $6,560
+    Tax deduction: 328.0
+    Net Salary: 6232.0
+    Payslip Date: 2025-04-05
+    ==========================
+    

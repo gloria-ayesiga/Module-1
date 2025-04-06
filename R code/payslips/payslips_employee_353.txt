@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 353
+Employee Name: employee_353
+Role: safety manager
+Salary: $10,620
+Tax deduction: 531
+Net Salary: 10089
+Payslip Date: 2025-04-05
+=========================
+

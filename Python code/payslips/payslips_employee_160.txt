@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 160
+    Employee Name: employee_160
+    Role: project manager
+    Salary: $29,011
+    Tax deduction: 2901.1000000000004
+    Net Salary: 26109.9
+    Payslip Date: 2025-04-05
+    ==========================
+    

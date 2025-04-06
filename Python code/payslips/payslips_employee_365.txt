@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 365
+    Employee Name: employee_365
+    Role: civil engineer
+    Salary: $13,970
+    Tax deduction: 698.5
+    Net Salary: 13271.5
+    Payslip Date: 2025-04-05
+    ==========================
+    

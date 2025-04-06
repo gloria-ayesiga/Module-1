@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 308
+    Employee Name: employee_308
+    Role: plumber
+    Salary: $9,190
+    Tax deduction: 459.5
+    Net Salary: 8730.5
+    Payslip Date: 2025-04-05
+    ==========================
+    

@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 310
+Employee Name: employee_310
+Role: surveyor
+Salary: $14,184
+Tax deduction: 709.2
+Net Salary: 13474.8
+Payslip Date: 2025-04-05
+=========================
+

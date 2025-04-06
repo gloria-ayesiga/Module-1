@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 227
+Employee Name: employee_227
+Role: safety manager
+Salary: $12,599
+Tax deduction: 629.95
+Net Salary: 11969.05
+Payslip Date: 2025-04-05
+=========================
+

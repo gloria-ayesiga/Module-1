@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 101
+    Employee Name: employee_101
+    Role: foreman
+    Salary: $7,869
+    Tax deduction: 393.45000000000005
+    Net Salary: 7475.55
+    Payslip Date: 2025-04-05
+    ==========================
+    

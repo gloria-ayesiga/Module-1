@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 407
+Employee Name: employee_407
+Role: foreman
+Salary: $9,084
+Tax deduction: 454.2
+Net Salary: 8629.8
+Payslip Date: 2025-04-05
+=========================
+

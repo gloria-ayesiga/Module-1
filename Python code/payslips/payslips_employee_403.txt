@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 403
+    Employee Name: employee_403
+    Role: project manager
+    Salary: $27,265
+    Tax deduction: 2726.5
+    Net Salary: 24538.5
+    Payslip Date: 2025-04-05
+    ==========================
+    

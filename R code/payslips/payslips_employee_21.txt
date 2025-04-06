@@ -1,0 +1,12 @@
+======================
+        PAY SLIP
+=======================
+Employee ID: 21
+Employee Name: employee_21
+Role: project manager
+Salary: $28,447
+Tax deduction: 2844.7
+Net Salary: 25602.3
+Payslip Date: 2025-04-05
+=========================
+

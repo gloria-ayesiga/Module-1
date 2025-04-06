@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 73
+    Employee Name: employee_73
+    Role: project manager
+    Salary: $28,208
+    Tax deduction: 2820.8
+    Net Salary: 25387.2
+    Payslip Date: 2025-04-05
+    ==========================
+    

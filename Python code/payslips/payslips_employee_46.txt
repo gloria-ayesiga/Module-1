@@ -1,0 +1,13 @@
+
+    ======================
+            PAY SLIP
+    ========================
+    Employee ID: 46
+    Employee Name: employee_46
+    Role: safety manager
+    Salary: $19,883
+    Tax deduction: 994.1500000000001
+    Net Salary: 18888.85
+    Payslip Date: 2025-04-05
+    ==========================
+    
